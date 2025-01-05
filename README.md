@@ -16,11 +16,10 @@
 <hr>
 <div align="center">  
   <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ctrl-z1&show_icons=true&count_private=true&hide_border=true&title_color=AF47D2&icon_color=ED3EF7&text_color=A1A4A0&bg_color=0d1117" alt="ctrl-z1 GitHub stats"/>
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-z1&layout=compact&hide_border=true&langs_count=10&title_color=AF47D2&text_color=A1A4A0&bg_color=0d1117" />
-  <img width="51%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=ctrl-z1&theme=dark&locale=en&background=0d1117&hide_border=true&fire=800080&ring=9932CC&currStreakLabel=FFEB55&dates=ED3EF7" alt="GitHub Streak" />
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-z1&layout=compact&hide_border=true&langs_count=10&title_color=AF47D2&text_color=A1A4A0&bg_color=0d1117"/>
+  <img width="51%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=ctrl-z1&theme=dark&locale=en&background=0d1117&hide_border=true&fire=800080&ring=9932CC&currStreakLabel=FFEB55&dates=ED3EF7" alt="GitHub Streak"/>
   <img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2024/12/kuromi-icegif-4.gif"/>
 </div>
 <hr>
-  
-### ![BDay](https://img.shields.io/badge/BDay_Countdown-195-purple)
+
 
